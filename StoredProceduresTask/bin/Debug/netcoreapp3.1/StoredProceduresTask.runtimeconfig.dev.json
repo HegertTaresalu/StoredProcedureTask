@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mumminaator\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mumminaator\\.nuget\\packages"
+    ]
+  }
+}
